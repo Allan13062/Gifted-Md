@@ -16,7 +16,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254797450206?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/giftedtechnexus/Gifted-Md" target="_blank">
